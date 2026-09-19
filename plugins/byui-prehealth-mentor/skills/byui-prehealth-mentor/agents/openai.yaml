@@ -1,0 +1,4 @@
+interface:
+  display_name: "BYU–Idaho Pre-Health Mentor"
+  short_description: "Plan a BYU–Idaho pre-health path step by step"
+  default_prompt: "Use $byui-prehealth-mentor to help me build my pre-health timeline."

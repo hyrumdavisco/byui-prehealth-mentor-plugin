@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "byui-prehealth-mentor",
+  "version": "0.1.0",
+  "description": "Step-by-step pre-health planning and mentoring for BYU-Idaho students.",
+  "author": {
+    "name": "Hyrum Davis",
+    "url": "https://github.com/hyrumdavisco"
+  },
+  "homepage": "https://github.com/hyrumdavisco/byui-prehealth-mentor-plugin",
+  "repository": "https://github.com/hyrumdavisco/byui-prehealth-mentor-plugin",
+  "license": "MIT",
+  "keywords": ["byu-idaho", "pre-health", "pre-med", "mcat", "mentoring"]
+}

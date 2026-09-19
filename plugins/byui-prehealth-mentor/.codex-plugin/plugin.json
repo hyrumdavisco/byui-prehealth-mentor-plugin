@@ -1,0 +1,23 @@
+{
+  "name": "byui-prehealth-mentor",
+  "version": "0.1.0",
+  "description": "Step-by-step pre-health planning and mentoring for BYU-Idaho students.",
+  "author": {
+    "name": "Hyrum Davis",
+    "url": "https://github.com/hyrumdavisco"
+  },
+  "homepage": "https://github.com/hyrumdavisco/byui-prehealth-mentor-plugin",
+  "repository": "https://github.com/hyrumdavisco/byui-prehealth-mentor-plugin",
+  "license": "MIT",
+  "keywords": ["byu-idaho", "pre-health", "pre-med", "mcat", "mentoring"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "BYU–Idaho Pre-Health Mentor",
+    "shortDescription": "Build a realistic pre-health and MCAT timeline.",
+    "longDescription": "Mentor BYU–Idaho pre-health students through application timing, MCAT planning, prerequisites, workload tradeoffs, and concrete next steps using Hyrum Davis's mentoring framework.",
+    "developerName": "Hyrum Davis",
+    "category": "Education",
+    "capabilities": ["Interactive"],
+    "defaultPrompt": "Help me build my BYU–Idaho pre-health timeline step by step."
+  }
+}

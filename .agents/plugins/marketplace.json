@@ -1,0 +1,20 @@
+{
+  "name": "byui-prehealth",
+  "interface": {
+    "displayName": "BYU–Idaho Pre-Health"
+  },
+  "plugins": [
+    {
+      "name": "byui-prehealth-mentor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/byui-prehealth-mentor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}

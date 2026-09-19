@@ -1,0 +1,21 @@
+name: Validate plugin
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON files
+        run: |
+          python -m json.tool .agents/plugins/marketplace.json >/dev/null
+          python -m json.tool plugins/byui-prehealth-mentor/plugin.json >/dev/null
+          python -m json.tool plugins/byui-prehealth-mentor/.codex-plugin/plugin.json >/dev/null
+      - name: Validate required skill files
+        run: |
+          test -f plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/SKILL.md
+          test -f plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/planning-framework.md
+          ! grep -R "\[TODO:" plugins/byui-prehealth-mentor .agents/plugins/marketplace.json
