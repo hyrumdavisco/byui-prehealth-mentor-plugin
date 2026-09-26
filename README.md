@@ -32,7 +32,7 @@ codex plugin marketplace add hyrumdavisco/byui-prehealth-mentor-plugin --ref mai
 codex plugin add byui-prehealth-mentor@byui-prehealth
 ```
 
-Restart the ChatGPT desktop app, open the Plugins Directory, choose **BYU–Idaho Pre-Health**, and enable **BYU–Idaho Pre-Health Mentor**. Start a new conversation when testing changed skill instructions.
+Open the Plugins Directory, choose **BYU–Idaho Pre-Health**, and enable **BYU–Idaho Pre-Health Mentor**. Start a new conversation when testing changed skill instructions.
 
 ## Update workflow
 
@@ -54,3 +54,31 @@ Workspace-imported marketplaces sync automatically; the CLI installation is a se
 ## Add mentor knowledge
 
 Keep mentor notes focused by topic. Label advice as **Official**, **Firsthand**, or **Reported**, and date-check changing requirements. Do not present one student's experience with a course or instructor as universal fact.
+
+## Google Drive resource test — version 0.1.1
+
+Source collection: [Pre-Health planning](https://drive.google.com/drive/folders/1CUu_3WfcNFyoZwGii1TvIm0jUOymflx7).
+
+The first test includes dated Markdown reference summaries of three selected documents:
+
+- GRADUATION PLAN.docx
+- Course Cheat Sheet
+- Application Timeline Tips from AAMC official website
+
+Find them through [the resource index](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/mentor-knowledge-index.md). Each summary records its source link, source-read date, and limits. Collected advice is separate from Hyrum's firsthand recommendations. This resource import does not finalize the mentoring workflow being designed.
+
+The summaries are included in the plugin, so students do not need to connect Google Drive to read them. The original documents and PDF visual remain at their linked locations. Linking an original does not change its ownership or license; the repository license does not grant rights to externally hosted source materials.
+
+### Refreshing resources
+
+Drive is the editing source; GitHub contains the published reference summaries. **Drive-to-GitHub automatic synchronization is not configured.** ChatGPT's GitHub marketplace sync is a separate step and only picks up changes already committed to this repository.
+
+For now, update a selected Drive document, re-read it, revise its matching reference summary and source-read date, validate the package, and commit the update. Adding a new Drive file alone does not add it to the plugin. Future automation can use the stable file links in the index while retaining source labels and review of changing claims.
+
+### First test
+
+After importing or refreshing the GitHub plugin, start a new conversation and ask:
+
+> Use BYU–Idaho Pre-Health Mentor. What does the collected course cheat sheet suggest for balancing a semester? Distinguish source advice from verified requirements.
+
+Check that it reads the bundled course reference, attributes the workload pattern to the collected document, and avoids treating its difficulty labels or credits as verified current catalog facts.
