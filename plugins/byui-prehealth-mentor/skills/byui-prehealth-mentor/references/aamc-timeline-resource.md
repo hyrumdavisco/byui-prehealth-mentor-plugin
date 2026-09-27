@@ -6,6 +6,9 @@
 - Source read: 2026-09-26. Edition/publication date: not established from the extracted text.
 - Classification: **Official-source document, stored copy; currency not verified**. This import is a summary of the supplied PDF, not proof that all links or policies remain current.
 
+- Bundled original: [AAMC timeline PDF](timeline-application-cycle/documents/aamc-application-timeline.pdf).
+- [Full text extraction and visual stage map](timeline-application-cycle/README.md); both pages inspected during the 2026-09-26 import. This does not verify current policies.
+
 ## Explain the overall process
 
 Use the resource to help students connect undergraduate preparation to an application cycle:

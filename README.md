@@ -55,7 +55,7 @@ Workspace-imported marketplaces sync automatically; the CLI installation is a se
 
 Keep mentor notes focused by topic. Label advice as **Official**, **Firsthand**, or **Reported**, and date-check changing requirements. Do not present one student's experience with a course or instructor as universal fact.
 
-## Google Drive resources — version 0.1.5
+## Google Drive resources — version 0.1.6
 
 Source collection: [Pre-Health planning](https://drive.google.com/drive/folders/1CUu_3WfcNFyoZwGii1TvIm0jUOymflx7).
 
@@ -67,7 +67,7 @@ The earlier test includes dated Markdown reference summaries of three selected d
 
 Find them through [the resource index](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/mentor-knowledge-index.md). Each summary records its source link, source-read date, and limits. Collected advice is separate from Hyrum's firsthand recommendations. This resource import does not finalize the mentoring workflow being designed.
 
-The earlier summaries are included in the plugin; their originals remain at the linked locations.
+The earlier summaries are included in the plugin; their original documents are now also bundled by the folder imports below.
 
 Version 0.1.2 also copies all six documents from **Applications, Writing & Interviews**: AMCAS, AACOMAS, personal statement guidance, interview preparation, common interview questions, and the Spring 2026 strategy presentation. [Open the collection](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/applications-writing-interviews/README.md) for readable text, five Google Docs exports in Word format, and the original PDF. Source links, modification times, and file checksums are recorded in its manifest. That update imported only the Applications, Writing & Interviews subfolder.
 
@@ -76,6 +76,8 @@ Version 0.1.3 copies both original Word documents from **Courses & Planning**, w
 Version 0.1.4 copies all five **Experiences** resources: community service, patient exposure, research, shadowing, and archived local volunteering leads. [Open Experiences](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/experiences/README.md) for four Word exports, the original PDF, readable source text, and verification notes. Linked external resources were not recursively imported.
 
 Version 0.1.5 copies the single **Testing & MCAT** Google Doc as a Word export and readable reference, preserving its embedded external compilation link. [Open Testing & MCAT](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/testing-mcat/README.md). The external website and its downloads were not imported; availability and content remain unverified.
+
+Version 0.1.6 copies the original two-page AAMC PDF from **Timeline & Application Cycle**, adds readable text and a visually checked stage map, and connects the earlier timeline summary. [Open Timeline & Application Cycle](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/timeline-application-cycle/README.md). This completes the five requested resource folders: 15 unique documents in total. **Internal & Archive — Not for Plugin** remains excluded.
 
 These are collected sources, not newly verified admissions rules or automatically Hyrum’s personal advice. Students do not need a Drive connection to read the bundled copies. Source materials retain their original authorship and applicable rights; the repository MIT license does not establish rights to third-party source documents.
 

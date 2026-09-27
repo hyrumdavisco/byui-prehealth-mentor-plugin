@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AAMC Application Timeline — Verify Current Cycle.pdf",
+    "source_id": "1TGD1Vw40CGiQgEC8kWUJoEPGFoYCZI4q",
+    "source_url": "https://drive.google.com/file/d/1TGD1Vw40CGiQgEC8kWUJoEPGFoYCZI4q/view",
+    "source_modified": "2026-09-26T23:37:19.504Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/aamc-application-timeline.pdf",
+    "reference": "aamc-application-timeline.md",
+    "format": "pdf",
+    "bytes": 3887417,
+    "sha256": "9f1ae32f56ab2e11581954f34195cf5e818297bb0006be191969ddfe87e47977",
+    "extracted_characters": 7937,
+    "classification": "Official/stored",
+    "pages": 2,
+    "visual_review": "Both pages inspected; timeline groupings recorded in README; current applicability not verified"
+  }
+]
