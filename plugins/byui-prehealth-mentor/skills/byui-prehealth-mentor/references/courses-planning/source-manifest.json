@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Course Planning Cheat Sheet — Subjective Workload Guidance",
+    "source_id": "1tBqos9jQ39e6nx_Zjj3RwSnYBtWPOzmc",
+    "source_url": "https://drive.google.com/file/d/1tBqos9jQ39e6nx_Zjj3RwSnYBtWPOzmc/view",
+    "source_modified": "2026-09-26T23:37:18.579Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/course-planning-cheat-sheet.docx",
+    "reference": "course-planning-cheat-sheet.md",
+    "format": "docx",
+    "bytes": 17698,
+    "sha256": "bfad1a803433e2dcaad809c3dbc047fb8ed819cc1f63e5a36175d760e6743d64",
+    "extracted_characters": 3363
+  },
+  {
+    "title": "Graduation Planning — Course Sequence Draft.docx",
+    "source_id": "1UTTDLSiWRSCtUWkg68wiTpUZFM16U7m_",
+    "source_url": "https://drive.google.com/file/d/1UTTDLSiWRSCtUWkg68wiTpUZFM16U7m_/view",
+    "source_modified": "2026-09-26T23:37:17.622Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/graduation-planning.docx",
+    "reference": "graduation-planning.md",
+    "format": "docx",
+    "bytes": 17329,
+    "sha256": "7b706ef516db68d0b2f59cd42e578b0bd388696761eb139e116d69f866cb6429",
+    "extracted_characters": 4058
+  }
+]

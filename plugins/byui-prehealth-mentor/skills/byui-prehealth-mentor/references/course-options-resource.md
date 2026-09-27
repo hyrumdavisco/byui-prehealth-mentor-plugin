@@ -6,6 +6,9 @@
 - Classification: **Reported / collected advising material**. Difficulty categories are the document's judgments, not Hyrum's personal ratings or official university classifications.
 - Current course codes, titles, credits, requirements, and availability: **not verified by this import**.
 
+- Preserved copy: [original Word document](courses-planning/documents/course-planning-cheat-sheet.docx); [full source text](courses-planning/course-planning-cheat-sheet.md).
+- [Courses & Planning collection guide](courses-planning/README.md).
+
 ## Use the workload pattern as a starting point
 
 The source suggests 14–16 credits, usually two demanding courses with associated labs, one moderately demanding course, one lighter course, and a religion course. Adjust to the student's actual capacity, employment, exam preparation, degree audit, and completed religion requirements. Do not treat 14–16 credits as a universal minimum, maximum, or financial-aid rule.

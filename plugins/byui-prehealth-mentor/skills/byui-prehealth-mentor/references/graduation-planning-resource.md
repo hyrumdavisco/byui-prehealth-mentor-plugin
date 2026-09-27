@@ -6,6 +6,9 @@
 - Classification: **Reported / collected advising material**, supplied by Hyrum from his resource collection. Do not attribute its recommendations to Hyrum personally.
 - Format: selected summary, not a complete copy. Current official requirements have not been verified by this import.
 
+- Preserved copy: [original Word document](courses-planning/documents/graduation-planning.docx); [full source text](courses-planning/graduation-planning.md).
+- [Courses & Planning collection guide](courses-planning/README.md).
+
 ## Use for planning conversations
 
 Use the document's general planning ideas when a student needs a course and application roadmap:
