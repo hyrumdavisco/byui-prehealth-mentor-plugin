@@ -55,11 +55,11 @@ Workspace-imported marketplaces sync automatically; the CLI installation is a se
 
 Keep mentor notes focused by topic. Label advice as **Official**, **Firsthand**, or **Reported**, and date-check changing requirements. Do not present one student's experience with a course or instructor as universal fact.
 
-## Google Drive resource test — version 0.1.1
+## Google Drive resources — version 0.1.2
 
 Source collection: [Pre-Health planning](https://drive.google.com/drive/folders/1CUu_3WfcNFyoZwGii1TvIm0jUOymflx7).
 
-The first test includes dated Markdown reference summaries of three selected documents:
+The earlier test includes dated Markdown reference summaries of three selected documents:
 
 - GRADUATION PLAN.docx
 - Course Cheat Sheet
@@ -67,7 +67,11 @@ The first test includes dated Markdown reference summaries of three selected doc
 
 Find them through [the resource index](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/mentor-knowledge-index.md). Each summary records its source link, source-read date, and limits. Collected advice is separate from Hyrum's firsthand recommendations. This resource import does not finalize the mentoring workflow being designed.
 
-The summaries are included in the plugin, so students do not need to connect Google Drive to read them. The original documents and PDF visual remain at their linked locations. Linking an original does not change its ownership or license; the repository license does not grant rights to externally hosted source materials.
+The earlier summaries are included in the plugin; their originals remain at the linked locations.
+
+Version 0.1.2 also copies all six documents from **Applications, Writing & Interviews**: AMCAS, AACOMAS, personal statement guidance, interview preparation, common interview questions, and the Spring 2026 strategy presentation. [Open the collection](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/applications-writing-interviews/README.md) for readable text, five Google Docs exports in Word format, and the original PDF. Source links, modification times, and file checksums are recorded in its manifest. No other Drive subfolder was imported in this update.
+
+These are collected sources, not newly verified admissions rules or automatically Hyrum’s personal advice. Students do not need a Drive connection to read the bundled copies. Source materials retain their original authorship and applicable rights; the repository MIT license does not establish rights to third-party source documents.
 
 ### Refreshing resources
 
