@@ -55,7 +55,7 @@ Workspace-imported marketplaces sync automatically; the CLI installation is a se
 
 Keep mentor notes focused by topic. Label advice as **Official**, **Firsthand**, or **Reported**, and date-check changing requirements. Do not present one student's experience with a course or instructor as universal fact.
 
-## Google Drive resources — version 0.1.4
+## Google Drive resources — version 0.1.5
 
 Source collection: [Pre-Health planning](https://drive.google.com/drive/folders/1CUu_3WfcNFyoZwGii1TvIm0jUOymflx7).
 
@@ -74,6 +74,8 @@ Version 0.1.2 also copies all six documents from **Applications, Writing & Inter
 Version 0.1.3 copies both original Word documents from **Courses & Planning**, with full readable source text and links to the existing course and graduation summaries. [Open Courses & Planning](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/courses-planning/README.md). Its BYU-I subfolder was empty and is represented by a note. The two existing summaries and their new original copies cover the same two documents.
 
 Version 0.1.4 copies all five **Experiences** resources: community service, patient exposure, research, shadowing, and archived local volunteering leads. [Open Experiences](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/experiences/README.md) for four Word exports, the original PDF, readable source text, and verification notes. Linked external resources were not recursively imported.
+
+Version 0.1.5 copies the single **Testing & MCAT** Google Doc as a Word export and readable reference, preserving its embedded external compilation link. [Open Testing & MCAT](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/testing-mcat/README.md). The external website and its downloads were not imported; availability and content remain unverified.
 
 These are collected sources, not newly verified admissions rules or automatically Hyrum’s personal advice. Students do not need a Drive connection to read the bundled copies. Source materials retain their original authorship and applicable rights; the repository MIT license does not establish rights to third-party source documents.
 

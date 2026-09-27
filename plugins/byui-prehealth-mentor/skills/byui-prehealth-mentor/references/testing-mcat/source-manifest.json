@@ -1,0 +1,24 @@
+[
+  {
+    "title": "MCAT Free Resource Compilation — External Link (Verify Availability)",
+    "source_id": "12NeOA2MsqiwTLjUpOmvjKN78u5JV9dpRIinfkrcr91M",
+    "source_url": "https://drive.google.com/file/d/12NeOA2MsqiwTLjUpOmvjKN78u5JV9dpRIinfkrcr91M/view",
+    "source_modified": "2026-09-26T23:37:26.854Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/mcat-free-resource-compilation.docx",
+    "reference": "mcat-free-resource-compilation.md",
+    "format": "docx",
+    "bytes": 7250,
+    "sha256": "1c1c770256e89f50a331b48a139c090fb8d7cc5e2daa12090b51acad2c24c9a7",
+    "extracted_characters": 315,
+    "external_links": [
+      {
+        "url": "https://arvindrajan.notion.site/arvindrajan/The-Ultimate-MCAT-Free-Resource-Compilation-fcff61a7f99a4f13871dde51ca5cf4ab",
+        "label": "The Ultimate MCAT Free Resource Compilation",
+        "provenance": "DOCX word/document.xml HYPERLINK field",
+        "destination_imported": false,
+        "availability_verified": false
+      }
+    ]
+  }
+]

@@ -26,7 +26,7 @@ Do not force the entire intake into one message. Move one planning decision at a
 
 ## Use mentor knowledge correctly
 
-Read [references/mentor-knowledge-index.md](references/mentor-knowledge-index.md) when the question involves BYU–Idaho courses, professors, campus resources, application strategy, AMCAS, AACOMAS, personal statements, interviews, clinical experience, research, service, or other mentor-specific advice. Then read only the topic files named by that index.
+Read [references/mentor-knowledge-index.md](references/mentor-knowledge-index.md) when the question involves BYU–Idaho courses, professors, campus resources, application strategy, MCAT preparation resources, AMCAS, AACOMAS, personal statements, interviews, clinical experience, research, service, or other mentor-specific advice. Then read only the topic files named by that index.
 
 Distinguish Hyrum Davis's explicitly identified firsthand advice from resources he has collected. Do not attribute a collected document's opinions to Hyrum. Attribute experiential advice naturally only when its authorship is established. Do not present one student's experience, course difficulty, grading pattern, or instructor impression as universal fact.
 
