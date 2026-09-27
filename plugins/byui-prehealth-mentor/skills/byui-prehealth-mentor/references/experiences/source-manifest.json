@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Local Volunteering Leads — Archive; Verify Availability.pdf",
+    "source_id": "19dveDi6p7J_H7O2trsugkgoOWK_JKfDJ",
+    "source_url": "https://drive.google.com/file/d/19dveDi6p7J_H7O2trsugkgoOWK_JKfDJ/view",
+    "source_modified": "2026-09-26T23:37:28.134Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/local-volunteering-leads.pdf",
+    "reference": "local-volunteering-leads.md",
+    "format": "pdf",
+    "bytes": 105103,
+    "sha256": "9aaf76ff3088365a789f60a62b1d19c35e98baac24decb63fa1c772275a09d08",
+    "extracted_characters": 2692
+  },
+  {
+    "title": "Community Service/Volunteering",
+    "source_id": "1ad5z5OjNOpCwRXWbvLrUsi_7Boym8GhE4kOCQ1QqVZU",
+    "source_url": "https://drive.google.com/file/d/1ad5z5OjNOpCwRXWbvLrUsi_7Boym8GhE4kOCQ1QqVZU/view",
+    "source_modified": "2026-09-26T23:34:32.235Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/community-service-volunteering.docx",
+    "reference": "community-service-volunteering.md",
+    "format": "docx",
+    "bytes": 8474,
+    "sha256": "386e4b87aaaba6365b4fe9dd7a634f3057f16084d43becd4d24a6355dcd6f895",
+    "extracted_characters": 1903
+  },
+  {
+    "title": "Patient Exposure",
+    "source_id": "1zcuH-wWPpT-6nRTaMHm2BuKeXDVV8hEwcdqdCLMNo7E",
+    "source_url": "https://drive.google.com/file/d/1zcuH-wWPpT-6nRTaMHm2BuKeXDVV8hEwcdqdCLMNo7E/view",
+    "source_modified": "2026-09-26T23:34:31.795Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/patient-exposure.docx",
+    "reference": "patient-exposure.md",
+    "format": "docx",
+    "bytes": 12964,
+    "sha256": "ee32108581ceee0b8fb32b051f8bc2af1cb147834777a78b3615adf6186305e1",
+    "extracted_characters": 7257
+  },
+  {
+    "title": "Research",
+    "source_id": "16ymDJpnPFnAMfKu-bWg1KuM8CXsFcELdOEFMgZmEcyI",
+    "source_url": "https://drive.google.com/file/d/16ymDJpnPFnAMfKu-bWg1KuM8CXsFcELdOEFMgZmEcyI/view",
+    "source_modified": "2026-09-26T23:34:31.411Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/research.docx",
+    "reference": "research.md",
+    "format": "docx",
+    "bytes": 14020,
+    "sha256": "31654d8020090c9139882a6c286419ff6985c10637a92a247d5d43ae4445f20f",
+    "extracted_characters": 11740
+  },
+  {
+    "title": "Intro to Shadowing",
+    "source_id": "1olEwKZfxbuyQIWLuVER7agOhPd2-9b5CNyrOxmt_Dxo",
+    "source_url": "https://drive.google.com/file/d/1olEwKZfxbuyQIWLuVER7agOhPd2-9b5CNyrOxmt_Dxo/view",
+    "source_modified": "2026-09-26T23:33:02.052Z",
+    "imported_date": "2026-09-26",
+    "document": "documents/intro-to-shadowing.docx",
+    "reference": "intro-to-shadowing.md",
+    "format": "docx",
+    "bytes": 9813,
+    "sha256": "850b20fcfe59ab6dbbf91341864721857f7a6729f5e9414f09b0a53aa6549856",
+    "extracted_characters": 3899
+  }
+]

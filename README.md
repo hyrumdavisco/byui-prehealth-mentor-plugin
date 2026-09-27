@@ -55,7 +55,7 @@ Workspace-imported marketplaces sync automatically; the CLI installation is a se
 
 Keep mentor notes focused by topic. Label advice as **Official**, **Firsthand**, or **Reported**, and date-check changing requirements. Do not present one student's experience with a course or instructor as universal fact.
 
-## Google Drive resources — version 0.1.3
+## Google Drive resources — version 0.1.4
 
 Source collection: [Pre-Health planning](https://drive.google.com/drive/folders/1CUu_3WfcNFyoZwGii1TvIm0jUOymflx7).
 
@@ -72,6 +72,8 @@ The earlier summaries are included in the plugin; their originals remain at the 
 Version 0.1.2 also copies all six documents from **Applications, Writing & Interviews**: AMCAS, AACOMAS, personal statement guidance, interview preparation, common interview questions, and the Spring 2026 strategy presentation. [Open the collection](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/applications-writing-interviews/README.md) for readable text, five Google Docs exports in Word format, and the original PDF. Source links, modification times, and file checksums are recorded in its manifest. That update imported only the Applications, Writing & Interviews subfolder.
 
 Version 0.1.3 copies both original Word documents from **Courses & Planning**, with full readable source text and links to the existing course and graduation summaries. [Open Courses & Planning](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/courses-planning/README.md). Its BYU-I subfolder was empty and is represented by a note. The two existing summaries and their new original copies cover the same two documents.
+
+Version 0.1.4 copies all five **Experiences** resources: community service, patient exposure, research, shadowing, and archived local volunteering leads. [Open Experiences](plugins/byui-prehealth-mentor/skills/byui-prehealth-mentor/references/experiences/README.md) for four Word exports, the original PDF, readable source text, and verification notes. Linked external resources were not recursively imported.
 
 These are collected sources, not newly verified admissions rules or automatically Hyrum’s personal advice. Students do not need a Drive connection to read the bundled copies. Source materials retain their original authorship and applicable rights; the repository MIT license does not establish rights to third-party source documents.
 
